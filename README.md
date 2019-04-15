@@ -1,2 +1,4 @@
 # Iran_cities
-list of all iran cities and province and county
+laravel migrateion and seeders 
+cities and province and county of Iran
+
